@@ -1,3 +1,4 @@
-# Bienvenido a mi primer repo
-Este es mi primer repo
--Un markdown en posit ara github
+# BIENVENIDO A MI PRIMER REPOSITORIO
+Esta es mi repositorio de R y contiene:
+- Scrip de R
+- README
